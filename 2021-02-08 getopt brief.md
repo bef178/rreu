@@ -34,12 +34,12 @@ while true; do
             echo "I: opt: $1, value: $2"
             shift 2
             ;;
-        *)
-            echo "E: unknown opt: $1"
-            ;;
         --)
             shift
             break
+            ;;
+        *)
+            echo "E: unknown opt: $1"
             ;;
     esac
 done
