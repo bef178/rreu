@@ -1,5 +1,25 @@
 # FPV Drone Tips
 
+### 2025 NBG 75 | 1s 圈圈 模拟图传
+
+GS叔家称流量明星，销售上千。花飞版，整机619。
+
+| | | 官价 |
+| -: | :- | :- |
+| 圈圈 | NBD 75mm | 19.4+5
+| 碳板 | 有 |
+| 头罩 | NBD GooberCanopy | 14.55+5
+| 飞控 | Betafpv Matrix 1S 五合一 G473CEU6 | 349
+| 摄像头 | LDARC Kingkong 199C 定制 0.8 3p 插头 | 60+6
+| 电机 | 火神VCI 双滚珠 0802 22000kv/min (致盈 GTSv3) | 229.5
+| 桨叶 | NBD Azi 40mm-3 (HQ Ultralight 1.6x3 40mm)| 13.5+5
+| 电池仓 | TPU 打印件 |
+| 电池 | 大黄狗 1s 550mAh 150C | 26.9+10
+
+对比：Meteor75 Pro 售价679；Air75 668；Air75 星尘版 699。
+
+### 通识
+
 桨叶 - 机型
 - 31mm - 12(65)
   - HummingBird V4 1S
